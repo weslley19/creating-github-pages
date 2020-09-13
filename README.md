@@ -7,7 +7,7 @@ How to put a static website on GitHub Pages?
 - Created a new branch, check it out and resend the files to it
 - With that done, go to GitHub and refresh the page to see the files
 
-### :tw-1f4bb: Accessing the website
+### :desktop_computer: Accessing the website
 
 ------------
 - Type in the browser URL the following pattern:
