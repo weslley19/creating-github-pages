@@ -12,9 +12,9 @@ How to put a static website on GitHub Pages?
 ------------
 - Type in the browser URL the following pattern:
 
-	`https://**<your-user>**gtihub.io/**<repository>**`
+	`https://**<your-user>**github.io/**<repository>**`
 
 - It would look like this to me:
 
-	`https://weslley19.gtihub.io/pizzaria`
+	`https://weslley19.github.io/pizzaria`
 
