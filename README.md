@@ -1,4 +1,4 @@
-# Creating GtiHub Pages
+# Creating GitHub Pages
 
 How to put a static website on GitHub Pages?
 - Create a new repository
